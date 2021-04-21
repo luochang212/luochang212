@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!--[![luochang212's github stats](https://github-readme-stats.vercel.app/api?username=luochang212)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://github-readme-stats.vercel.app/api?username=luochang212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
