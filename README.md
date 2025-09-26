@@ -8,4 +8,4 @@
 
 You can find me at these places: [Homepage](https://stellartide.github.io/), [Blog](https://luochang212.github.io), [Zhihu](https://www.zhihu.com/people/Fashionable), [WeChat](https://luochang212.github.io/images/wechat.jpg).
 
-![](https://github-readme-stats.vercel.app/api?username=luochang212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luochang212&show_icons=true&theme=tokyonight&include_all_commits=true)
