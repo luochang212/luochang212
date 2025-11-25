@@ -6,6 +6,6 @@
 - 💭 My favorite motto is *Live well, don't overthink* (好好生活，别嗯投入 in Chinese).
 - 🌱 I enjoy writing blogs in my spare time, hoping to create [interesting code](https://stellartide.github.io/orthodox/#6-fun-projects).
 
-You can find me at these places: [Homepage](https://stellartide.github.io/), [Blog](https://luochang212.github.io), [Zhihu](https://www.zhihu.com/people/Fashionable), [WeChat](https://luochang212.github.io/images/wechat.jpg).
+You can find me at these places: [Homepage](https://stellartide.github.io/cn/), [Blog](https://luochang212.github.io), [Zhihu](https://www.zhihu.com/people/Fashionable), [WeChat](https://mp.weixin.qq.com/s/He-04l46xJTM_MJ3AyTwWQ).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luochang212&show_icons=true&theme=tokyonight&include_all_commits=true)
